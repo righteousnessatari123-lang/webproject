@@ -1,5 +1,4 @@
-import { Link } from "react-router";
-import { useNavigate } from "react-router";
+import { Link, useNavigate } from "react-router";
 
 function Hero() {
   const navigate = useNavigate();
@@ -10,12 +9,10 @@ function Hero() {
       {/* LEFT IMAGE */}
       <div className="hero-side hero-side-left">
         <img
-          src="src/assets/image 2 28 (2).png"
+          src="/images/image 2 28 (2).png"
           alt="Fashion model"
         />
-        
       </div>
-
 
       {/* MIDDLE */}
       <div className="hero-middle">
@@ -23,26 +20,19 @@ function Hero() {
         {/* TOP IMAGE */}
         <div className="hero-top-image">
           <img
-            src="src/assets/images (3).png"
+            src="/images/images (3).png"
             alt="New collection"
           />
         </div>
 
-
         {/* TITLE */}
         <div className="hero-title">
 
-          <h1>
-            ULTIMATE
-          </h1>
+          <h1>ULTIMATE</h1>
 
-          <h2>
-            SALE
-          </h2>
+          <h2>SALE</h2>
 
-          <p>
-            NEW COLLECTION
-          </p>
+          <p>NEW COLLECTION</p>
 
           <Link
             to="/shop"
@@ -53,22 +43,18 @@ function Hero() {
 
         </div>
 
-
         {/* BOTTOM IMAGE */}
         <div className="hero-bottom-image">
 
           <img
-            src="src/assets/images (4).png"
+            src="/images/images (4).png"
             alt="Fashion collection"
           />
 
-
-          {/* =========================
-              BOTTOM RIGHT CONTROLS
-          ========================== */}
+          {/* CONTROLS */}
           <div className="hero-image-controls">
 
-            {/* CART ICON */}
+            {/* CART */}
             <button
               type="button"
               className="hero-cart-button"
@@ -78,8 +64,7 @@ function Hero() {
               🛒
             </button>
 
-
-            {/* CIRCLED ARROW */}
+            {/* ARROW */}
             <button
               type="button"
               className="hero-arrow-button"
@@ -90,20 +75,15 @@ function Hero() {
             </button>
 
           </div>
-
         </div>
-
       </div>
-
 
       {/* RIGHT IMAGE */}
       <div className="hero-side hero-side-right">
-
         <img
-          src="src/assets/image 227.png"
+          src="/images/image 227.png"
           alt="Fashion model"
         />
-
       </div>
 
     </section>
