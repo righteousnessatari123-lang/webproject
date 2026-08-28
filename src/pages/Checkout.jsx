@@ -320,7 +320,7 @@ function Checkout() {
 
         <div className="newsletter-person newsletter-left">
           <img
-            src="/src/assets/image 2.png"
+            src="/images/image 2.png"
             alt=""
           />
         </div>
@@ -358,7 +358,7 @@ function Checkout() {
 
         <div className="newsletter-person newsletter-right">
           <img
-            src="/src/assets/image 3.png"
+            src="/images/image 3.png"
             alt=""
           />
         </div>
