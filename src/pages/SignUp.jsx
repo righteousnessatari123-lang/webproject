@@ -1,6 +1,8 @@
 import { Link } from "react-router";
+import { useNavigate } from "react-router";
 
 function Signup() {
+  const navigate = useNavigate();
   const handleSubmit = (e) => {
     e.preventDefault();
   };
@@ -245,12 +247,13 @@ function Signup() {
 
 
             {/* CREATE ACCOUNT BUTTON */}
-            <button
-              type="submit"
-              className="create-account-button"
-            >
-              Create Account
-            </button>
+              <button
+                type="button"
+                className="create-account-button"
+                onClick={() => navigate("/signin")}
+              >
+                Create Account
+              </button>
 
           </form>
 

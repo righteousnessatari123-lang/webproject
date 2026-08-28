@@ -1,6 +1,8 @@
 import { Link } from "react-router";
+import { useNavigate } from "react-router";
 
 function Signin() {
+  const navigate = useNavigate();
   const handleSubmit = (e) => {
     e.preventDefault();
   };
@@ -175,8 +177,9 @@ function Signin() {
 
               {/* SIGN IN */}
               <button
-                type="submit"
+                type="button"
                 className="signin-submit"
+                onClick={() => navigate("/")}
               >
                 Sign In
               </button>
