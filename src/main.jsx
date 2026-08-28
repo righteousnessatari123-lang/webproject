@@ -9,8 +9,8 @@ import {
 import App from "./App";
 
 import Home from "./pages/Home";
-import Signup from "./pages/Signup";
-import Signin from "./pages/Signin";
+import Signup from "./pages/SignUp";
+import Signin from "./pages/SignIn";
 import ForgotPassword from "./pages/ForgotPassword";
 import Confirmation from "./pages/Confirmation";
 import EnterNewPassword from "./pages/EnterNewPassword";
@@ -36,12 +36,12 @@ const router = createBrowserRouter([
 
   {
     path: "/signup",
-    element: <Signup />,
+    element: <SignUp />,
   },
 
   {
     path: "/signin",
-    element: <Signin />,
+    element: <SignIn />,
   },
 
   {
