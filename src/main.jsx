@@ -9,8 +9,8 @@ import {
 import App from "./App";
 
 import Home from "./pages/Home";
-import Signup from "./pages/SignUp";
-import Signin from "./pages/SignIn";
+import SignUp from "./pages/SignUp";
+import SignIn from "./pages/SignIn";
 import ForgotPassword from "./pages/ForgotPassword";
 import Confirmation from "./pages/Confirmation";
 import EnterNewPassword from "./pages/EnterNewPassword";
