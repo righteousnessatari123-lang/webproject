@@ -6,7 +6,7 @@ import Featured from "../components/Featured";
 import Features from "../components/Features";
 import Instagram from "../components/Instagram";
 import Testimonials from "../components/Testimonials";
-import Newsletter from "../components/Newsletter";
+import Newsletter from "../components/NewsLetter";
 
 function Home() {
   return (
