@@ -5,7 +5,7 @@ function Featured() {
       <div className="featured-image">
 
         <img
-          src="src/assets/image (8).png"
+          src="/images/image (8).png"
           alt="Peaky Blinders"
         />
 

@@ -20,7 +20,7 @@ function Testimonials() {
         <div className="testimonial-small">
 
           <img
-            src="src/assets/image (16).png"
+            src="/images/image (16).png"
             alt=""
           />
 
@@ -31,7 +31,7 @@ function Testimonials() {
           <div className="testimonial-person">
 
             <img
-              src="src/assets/image (17).png"
+              src="/images/image (17).png"
               alt=""
             />
 

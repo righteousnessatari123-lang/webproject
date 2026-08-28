@@ -1,13 +1,13 @@
 function Instagram() {
 
   const images = [
-    "src/assets/instagram-1.png",
-    "src/assets/instagram-2.png",
-    "src/assets/instagram-3.png",
-    "src/assets/instagram-4.png",
-    "src/assets/instagram-5.png",
-    "src/assets/instagram-6.png",
-    "src/assets/instagram-7.png",
+    "/images/instagram-1.png",
+    "/images/instagram-2.png",
+    "/images/instagram-3.png",
+    "/images/instagram-4.png",
+    "/images/instagram-5.png",
+    "/images/instagram-6.png",
+    "/images/instagram-7.png",
   ];
 
   return (

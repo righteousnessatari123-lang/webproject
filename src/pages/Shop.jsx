@@ -61,13 +61,13 @@ function Shop() {
   ];
 
   const instagramImages = [
-    "src/assets/instagram-1.png",
-    "src/assets/instagram-2.png",
-    "src/assets/instagram-3.png",
-    "src/assets/instagram-4.png",
-    "src/assets/instagram-5.png",
-    "src/assets/instagram-6.png",
-    "src/assets/instagram-7.png",
+    "/images/instagram-1.png",
+    "/images/instagram-2.png",
+    "/images/instagram-3.png",
+    "/images/instagram-4.png",
+    "/images/instagram-5.png",
+    "/images/instagram-6.png",
+    "/images/instagram-7.png",
   ];
 
   return (
@@ -858,7 +858,7 @@ function Shop() {
             }}
           >
             <img
-              src="src/assets/image (19).png"
+              src="/images/image (19).png"
               alt="Peaky Blinders collection"
               style={{
                 width: "100%",
@@ -1189,7 +1189,7 @@ function Shop() {
         {/* LEFT MODEL */}
 
         <img
-          src="src/assets/image 2.png"
+          src="/images/image 2.png"
           alt="Fashion model"
           style={{
             position: "absolute",
@@ -1293,7 +1293,7 @@ function Shop() {
         {/* RIGHT MODEL */}
 
         <img
-          src="src/assets/image 3.png"
+          src="/images/image 3.png"
           alt="Fashion model"
           style={{
             position: "absolute",

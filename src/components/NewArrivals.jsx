@@ -4,37 +4,37 @@ function NewArrivals() {
 
   const products = [
     {
-      image: "src/assets/Images (5).png",
+      image: "/images/Images (5).png",
       name: "Shiny Dress",
       category: "Al Karam",
       price: "$95.50",
     },
     {
-      image: "src/assets/Images (6).png",
+      image: "/images/Images (6).png",
       name: "Long Dress",
       category: "Al Karam",
       price: "$95.50",
     },
     {
-      image: "src/assets/Images (7).png",
+      image: "/images/Images (7).png",
       name: "Full Sweater",
       category: "Al Karam",
       price: "$95.50",
     },
     {
-      image: "src/assets/Images (8).png",
+      image: "/images/Images (8).png",
       name: "White Dress",
       category: "Al Karam",
       price: "$95.50",
     },
     {
-      image: "src/assets/Images (9).png",
+      image: "/images/Images (9).png",
       name: "Colorful Dress",
       category: "Al Karam",
       price: "$95.50",
     },
     {
-      image: "src/assets/Images (10).png",
+      image: "/images/Images (10).png",
       name: "White Shirt",
       category: "Al Karam",
       price: "$95.50",

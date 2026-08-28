@@ -5,7 +5,7 @@ function Newsletter() {
       <div className="newsletter-model left">
 
         <img
-          src="src/assets/image 2.png"
+          src="/images/image 2.png"
           alt=""
         />
 
@@ -40,7 +40,7 @@ function Newsletter() {
       <div className="newsletter-model right">
 
         <img
-          src="src/assets/image 3.png"
+          src="/images/image 3.png"
           alt=""
         />
 

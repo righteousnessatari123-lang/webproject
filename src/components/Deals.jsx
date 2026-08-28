@@ -58,7 +58,7 @@ function Deals() {
         <div className="deal-product">
 
           <img
-            src="src/assets/image (5).png"
+            src="/images/image (5).png"
             alt=""
           />
 
@@ -74,7 +74,7 @@ function Deals() {
         <div className="deal-product">
 
           <img
-            src="src/assets/image (6).png"
+            src="/images/image (6).png"
             alt=""
           />
 
@@ -83,7 +83,7 @@ function Deals() {
         <div className="deal-product">
 
           <img
-            src="src/assets/image (7).png"
+            src="/images/image (7).png"
             alt=""
           />
 

@@ -568,7 +568,7 @@ function Product() {
 
         .promo-image {
           min-height: 300px;
-          background: #eeeeee;
+          background: #c7c6c651;
           overflow: hidden;
         }
 
@@ -1456,7 +1456,7 @@ function Product() {
           <div className="promo-image">
 
             <img
-              src="/src/assets/image (8).png"
+              src="/images/image (8).png"
               alt="Peaky Blinders Collection"
             />
 
@@ -1690,7 +1690,7 @@ function Product() {
               <div className="loved-card">
 
                 <img
-                  src="/src/assets/image (5).png"
+                  src="/images/image (5).png"
                   alt="Loved product"
                 />
 
@@ -1712,7 +1712,7 @@ function Product() {
               <div className="loved-card">
 
                 <img
-                  src="/src/assets/image (6).png"
+                  src="/images/image (6).png"
                   alt="Loved product"
                 />
 
@@ -1722,7 +1722,7 @@ function Product() {
               <div className="loved-card">
 
                 <img
-                  src="/src/assets/image (7).png"
+                  src="/images/image (7).png"
                   alt="Loved product"
                 />
 
@@ -1746,7 +1746,7 @@ function Product() {
             <div className="newsletter-image-left">
 
               <img
-                src="/src/assets/image 2.png"
+                src="/images/image 2.png"
                 alt="Fashion model"
               />
 
@@ -1788,7 +1788,7 @@ function Product() {
             <div className="newsletter-image-right">
 
               <img
-                src="/src/assets/image 3.png"
+                src="/images/image 3.png"
                 alt="Fashion model"
               />
 
