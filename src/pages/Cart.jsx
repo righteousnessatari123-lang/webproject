@@ -270,7 +270,7 @@ function Cart() {
         <div className="newsletter-person newsletter-person-left">
 
           <img
-            src="/src/assets/image 2.png"
+            src="/images/image 2.png"
             alt="Newsletter model"
           />
 
@@ -310,7 +310,7 @@ function Cart() {
         <div className="newsletter-person newsletter-person-right">
 
           <img
-            src="/src/assets/image 3.png"
+            src="/images/image 3.png"
             alt="Newsletter model"
           />
 
